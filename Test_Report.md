@@ -69,4 +69,7 @@ Result: PASS
 ## Conclusion
 
 OCS schema verified successfully.
+
 Relationship traversal and context-aware query execution are working correctly.
+
+Generated and verified using E-commerce dataset.
